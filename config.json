@@ -1,0 +1,19 @@
+{
+  "ownerNumber": ["6285921165857@s.whatsapp.net"],
+  "ownerName": ["Christian ID"],
+  "botName": "Hitomi MD",
+  "buttonName": "Youtube Official",
+  "buttonLink": "https://youtube.com/c/ChristianID99",
+  "buttonName2": "Instagram",
+  "buttonLink2": "https://instagram.com/chris.tianid",
+  "footer": "© Bot Store 2022 By Christian ID",
+  "randommenu": ["https://i.ibb.co/SJDV3gQ/61d82860538d.jpg","https://i.ibb.co/NNtmgDF/4b3207ff4d37.jpg"],
+  "sessionName": "session",
+  "pathimg": "./media/hitomi.jpg",
+  "gamewaktu": 60,
+  "limitCount": 10,
+  "gcount": {
+	"prem": 99999,
+	"user": 15
+  }
+}
